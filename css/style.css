@@ -1,0 +1,217 @@
+
+header .nav-quickly .logo img{
+    height: 120px;
+    
+}
+header .nav-quickly {
+    height: 10%;
+    margin-top: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    background-color: rgba(33, 106, 202, 0.698);
+    justify-content: flex-end;
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}  
+  
+  
+  #portafolio {
+    
+    background-image: url(../img/llaves-puertas.jpg);
+    background-size: cover;
+    
+}
+
+
+h2 {
+   color: #17a3b8f5;
+   text-align: center;
+}
+
+h3{
+    font-size: 25px; 
+    margin-bottom: 20px;
+    color: #bed1e7;
+    box-shadow: 20px 20px 20px 20px #3b679e(0, 0, .05);
+    background: #2b79bd86;
+    text-align: center;
+    padding: 20%;
+}
+
+
+#servicios .row {
+    justify-content: center;
+}    
+
+footer {
+    background-color:  #2b79bd86;
+}
+
+h4 {
+    padding-top: 15px;
+}
+footer img{
+    margin-right: 45px;
+}
+   
+    @media (min-width: 769px) and (max-width: 992x) { 
+        
+        #portafolio {
+    
+            background-image: url(../img/llaves-puertas.jpg);
+            background-size: cover;
+            
+        }
+        
+        h2 {
+           color: #17a3b8f5;
+           text-align: center;
+        }
+        
+        h3{
+            font-size: 25px; 
+            margin-bottom: 20px;
+            color: #bed1e7;
+            box-shadow: 20px 20px 20px 20px #3b679e(0, 0, .05);
+            background: #2b79bd86;
+            text-align: center;
+            padding: 20%;
+        }
+        
+        
+        
+        
+        header .nav-quickly .logo img{
+            height: 120px;
+            
+        }
+        header .nav-quickly {
+            height: 10%;
+            margin-top: 20px;
+        }
+        
+        .navbar-expand-lg .navbar-collapse {
+            background-color: rgba(33, 106, 202, 0.698);
+            justify-content: flex-end;
+            text-align: center;
+        }
+        
+        .navbar-light .navbar-nav .nav-link {
+            color: #ffffff;
+        }
+        
+        #servicios .row {
+            justify-content: center;
+        }
+    
+     }
+    @media (min-width: 992px) and (max-width: 1199.98px) { 
+        #portafolio {
+    
+            background-image: url(../img/llaves-puertas.jpg);
+            background-size: cover;
+            
+        }
+        
+        h2 {
+           color: #17a3b8f5;
+           text-align: center;
+        }
+        
+        h3{
+            font-size: 25px; 
+            margin-bottom: 20px;
+            color: #bed1e7;
+            box-shadow: 20px 20px 20px 20px #3b679e(0, 0, .05);
+            background: #2b79bd86;
+            text-align: center;
+            padding: 10%;
+        }
+        
+        
+        
+        
+        header .nav-quickly .logo img{
+            height: 120px;
+            
+        }
+        header .nav-quickly {
+            height: 10%;
+            margin-top: 20px;
+        }
+        
+        .navbar-expand-lg .navbar-collapse {
+            background-color: rgba(33, 106, 202, 0.698);
+            justify-content: flex-end;
+            text-align: center;
+        }
+        
+        .navbar-light .navbar-nav .nav-link {
+            color: #ffffff;
+        }
+        
+        #servicios .row {
+            justify-content: center;
+        }
+      
+     }
+    @media (min-width: 1200px) { 
+        #portafolio {
+    
+            background-image: url(../img/llaves-puertas.jpg);
+            background-size: cover;
+            
+        }
+        
+        h2 {
+           color: #17a3b8f5;
+           text-align: center;
+        }
+        
+        h3{
+            font-size: 25px; 
+            margin-bottom: 20px;
+            color: #bed1e7;
+            box-shadow: 20px 20px 20px 20px #3b679e(0, 0, .05);
+            background: #2b79bd86;
+            text-align: center;
+            padding: 20%;
+        }
+        
+        
+        
+        
+        header .nav-quickly .logo img{
+            height: 120px;
+            
+        }
+        header .nav-quickly {
+            height: 10%;
+            margin-top: 20px;
+        }
+        
+        .navbar-expand-lg .navbar-collapse {
+            background-color: rgba(33, 106, 202, 0.698);
+            justify-content: flex-end;
+            text-align: center;
+        }
+        
+        .navbar-light .navbar-nav .nav-link {
+            color: #ffffff;
+        }
+        
+        #servicios .row {
+            justify-content: center;
+        }
+    
+     } 
+     
+
+
+
+
+
